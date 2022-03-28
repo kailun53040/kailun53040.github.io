@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<title>興大劇坊</title>
+<meta name="keywords" content="興大戲劇社,戲劇社,社團,興大劇坊,戲劇,舞台劇,演戲,舞台,燈光,音效,nchu drama">
+<meta name="description" content="介紹興大劇坊!還有很多相關內容。">
+<link href="style.css" rel="stylesheet" media="all">
+</head>
+
+<body>
+    <header>
+        <h1 class="h">興大劇坊</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#intro">社團簡介</a></li>   
+            <li><a href="#drama">興大劇坊2022畢業公演《尋找水星》</a></li>
+                <ul>
+                    <li><a href="#director"><font size="3">偉大的導演</font></a></li>
+                    <li><a href="#stage_manager"><font size="3">熱情奔放的舞台監督</font></a></li>
+                    <li><a href="#assistant rehearsal"><font size="3">可愛幽默的排練助理</font></a></li>
+                    <li><a href="#actor"><font size="3">演員組</font></a></li>
+                    <li><a href="#stage"><font size="3">舞台組</font></a></li>
+                    <li><a href="#voice_light"><font size="3">聲光組</font></a></li>
+                    <li><a href="#clothes"><font size="3">服化阻</font></a></li>
+                    <li><a href="#implement"><font size="3">執行組</font></a></li>
+                    <li><a href="#first"><font size="5">整排一照片(2022.03.28)</font></a></li>
+                    <li><a href="#second"><font size="5">整排二照片(2022.05.01)</font></a></li>
+                </ul>
+            <li><a href="#photo">劇照</a></li>
+            <li><a href="https://www.facebook.com/nchudrama/?ref=page_internal" target="_blank">Facebook連結</a></li>
+            <li><a href="https://www.instagram.com/nchudrama2022/" target="_blank">Instagram連結</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="intro">
+            <h2 class="h-sub">社團簡介</h2>
+                <p><font size="5">
+                    🅀 興大劇坊是什麼？一個社團嗎？<br>
+                    🄰 沒錯！我們是校內社團，每學期都會籌備舞台劇公演，這學期將要演出的舞台劇名為《尋找水星》。<br>
+                    🅀 過去沒有接觸過舞台劇也可以加入嗎？<br>
+                    🄰 沒問題！不論年齡、科系、是否有戲劇的相關背景，只要對舞台、對戲劇有熱情，我們都非常歡迎你的加入。<br>
+                    🅀 那如果我不想當演員，也可以加入嗎？<br>
+                    🄰 可以的！一齣舞台劇的誕生，除了幕前的演員外，還需要許多幕後人員一同合作，才能呈現出一定的戲劇張力，興大劇坊<br>
+                    除了招募演員組外，還有舞台組、燈光組、音效組、服化組和執行組⋯⋯<br>
+                    🅀 太有趣了！那請問我要如何報名參加呢？<br>
+                    🄰 點進去劇坊的招工報名連結，填寫基本資料，並預約要來招工的時段就可以囉！<br>
+                    🅀 參加招工就代表要加入嗎？我可不可以先去了解一下就好？<br>
+                    🄰 當然可以！想了解劇坊運作，除了追縱劇坊的FB粉專和IG外，也可以透過招工來聽聽劇組成員的分享。</font></p>
+        </section>
+
+        <section>
+            <section id="drama"></section>
+            <h2 class="h-sub">興大劇坊2022畢業公演《尋找水星》</h2>
+                <p><strong><font size="6">Date : 5/31——6/1<br>
+                    Time : 18:30 入場 —— 19:00 準時開演<br>
+                    Location : 圓廳 303教室<br>
+                    Entrance Fee : 免費</strong></font></p>
+                <img src="./照片/一整172.jpg" width="2000" height="700">
+                <img src="./照片/一整173.jpg" width="2000" height="700">
+
+                <section>
+                    <h3 id="director" class="h-sub-sub">導演</h3>
+                        <h4>
+                            <img src="./工人照/簡肇寬.jpg" width="320" height="480" alt="導演">
+                             <p><font size="6">簡肇寬</font></p>
+                        </h4>
+                    <h3 id="stage_manager" class="h-sub-sub">舞台監督</h3>
+                        <h4>
+                            <img src="./工人照/楊智翰.jpg" width="320" height="480" alt="揚智翰">
+                            <p><font size="6">楊智翰</font></p>
+                        </h4>
+                    <h3 id="assistant rehearsal" class="h-sub-sub">排練助理</h3>
+                        <h4>
+                            <img src="./工人照/林書霈.jpg" width="320" height="480" alt="小町">
+                            <p><font size="6">林書霈</font></p>
+                            <img src="R0000042.JPG" width="320" height="480" alt="小町">
+                            <p><font size="6">姜佳欣</font></p>
+                        </h4>
+
+                </section>
+
+                <sectoon id="actor">
+                <h3 class="h-sub-sub">演員組</h3>
+                    <h4><div class="wrapper">
+                            <div class="box">文字簡介</div>
+                            <div class="box">1</div>
+                            <div class="box">2</div>
+                            <div class="box">3</div>
+                            <div class="box"><img src="./工人照/張凱倫.jpg" width="320" height="480" alt="王地球">4</div>
+                        <p><font size="6">王地球/張凱倫 飾</font></p>
+
+                        <img src="./工人照/王鎧翊.jpg" width="320" height="480" alt="服務生">
+                        <p><font size="6">服務生/王楷翊 飾</font></p>
+                        <p>文字簡介</p>
+                        <img src="./工人照/石佩毓.jpg" width="320" height="480" alt="戴水星、女人">
+                        <p><font size="6">戴水星、女人/石佩毓 飾</font></p>
+                        <p>文字簡介</p>
+                        <img src="./工人照/陳雅涵.jpg" width="320" height="480" alt="戴水新">
+                        <p><font size="6">戴水新/陳雅涵 飾</font></p>
+                        <p>文字簡介</p>
+                        <img src="./工人照/馮琦.jpg" width="320" height="480" alt="王穎利">
+                        <p><font size="6">王穎利/馮琦 飾</font></p>
+                        <p>文字簡介</p></div>>
+                    </h4>
+                </sectoon>     
+
+                <section id="stage">                  
+                    <h3 class="h-sub-sub">舞台組</h3>
+                </section>
+
+                <section id="voice_light">
+                    <h3 class="h-sub-sub">聲光組</h3>
+                </section>
+                
+                <section id="clothes">
+                    <h3 class="h-sub-sub">服化組</h3>
+                </section>
+
+                <section id="implement">
+                    <h3 class="h-sub-sub">執行組</h3>
+
+                </section>
+        </section>
+        <section>
+            <section id="first">
+               <h2 class="h-sub">整排一照片</h2>
+                <section>
+                    <p> 
+                        <!--這裡是橫式照片-->
+                        <img src="./照片/一整001.jpg" width="450" height="300">
+                        <img src="./照片/一整002.jpg" width="450" height="300">
+                        <img src="./照片/一整003.jpg" width="450" height="300">
+                        <img src="./照片/一整004.jpg" width="450" height="300">
+                        <img src="./照片/一整006.jpg" width="450" height="300">
+                        <img src="./照片/一整007.jpg" width="450" height="300">
+                        <img src="./照片/一整008.jpg" width="450" height="300">
+                        <img src="./照片/一整010.jpg" width="450" height="300">
+                        <img src="./照片/一整011.jpg" width="450" height="300">
+                        <img src="./照片/一整012.jpg" width="450" height="300">
+                        <img src="./照片/一整013.jpg" width="450" height="300">
+                        <img src="./照片/一整014.jpg" width="450" height="300">
+                        <img src="./照片/一整015.jpg" width="450" height="300">
+                        <img src="./照片/一整016.jpg" width="450" height="300">
+                        <img src="./照片/一整017.jpg" width="450" height="300">
+                        <img src="./照片/一整018.jpg" width="450" height="300">
+                        <img src="./照片/一整019.jpg" width="450" height="300">
+                        <img src="./照片/一整020.jpg" width="450" height="300">
+                        <img src="./照片/一整021.jpg" width="450" height="300">
+                        <img src="./照片/一整022.jpg" width="450" height="300">
+                        <img src="./照片/一整023.jpg" width="450" height="300">
+                        <img src="./照片/一整024.jpg" width="450" height="300">
+                        <img src="./照片/一整025.jpg" width="450" height="300">
+                        <img src="./照片/一整026.jpg" width="450" height="300">
+                        <img src="./照片/一整027.jpg" width="450" height="300">
+                        <img src="./照片/一整028.jpg" width="450" height="300">
+                        <img src="./照片/一整029.jpg" width="450" height="300">
+                        <img src="./照片/一整030.jpg" width="450" height="300">
+                        <img src="./照片/一整031.jpg" width="450" height="300">
+                        <img src="./照片/一整032.jpg" width="450" height="300">
+                        <img src="./照片/一整033.jpg" width="450" height="300">
+                        <img src="./照片/一整034.jpg" width="450" height="300">
+                        <img src="./照片/一整035.jpg" width="450" height="300">
+                        <img src="./照片/一整036.jpg" width="450" height="300">
+                        <img src="./照片/一整037.jpg" width="450" height="300">
+                        <img src="./照片/一整038.jpg" width="450" height="300">
+                        <img src="./照片/一整039.jpg" width="450" height="300">
+                        <img src="./照片/一整040.jpg" width="450" height="300">
+                        <img src="./照片/一整041.jpg" width="450" height="300">
+                        <img src="./照片/一整042.jpg" width="450" height="300">
+                        <img src="./照片/一整043.jpg" width="450" height="300">
+                        <img src="./照片/一整046.jpg" width="450" height="300">
+                        <img src="./照片/一整047.jpg" width="450" height="300">
+                        <img src="./照片/一整048.jpg" width="450" height="300">
+                        <img src="./照片/一整049.jpg" width="450" height="300">
+                        <img src="./照片/一整051.jpg" width="450" height="300">
+                        <img src="./照片/一整052.jpg" width="450" height="300">
+                        <img src="./照片/一整053.jpg" width="450" height="300">
+                        <img src="./照片/一整054.jpg" width="450" height="300">
+                        <img src="./照片/一整055.jpg" width="450" height="300">
+                        <img src="./照片/一整056.jpg" width="450" height="300">
+                        <img src="./照片/一整057.jpg" width="450" height="300">
+                        <img src="./照片/一整058.jpg" width="450" height="300">
+                        <img src="./照片/一整059.jpg" width="450" height="300">
+                        <img src="./照片/一整060.jpg" width="450" height="300">
+                        <img src="./照片/一整063.jpg" width="450" height="300">
+                        <img src="./照片/一整064.jpg" width="450" height="300">
+                        <img src="./照片/一整065.jpg" width="450" height="300">
+                        <img src="./照片/一整066.jpg" width="450" height="300">
+                        <img src="./照片/一整067.jpg" width="450" height="300">
+                        <img src="./照片/一整068.jpg" width="450" height="300">
+                        <img src="./照片/一整071.jpg" width="450" height="300">
+                        <img src="./照片/一整072.jpg" width="450" height="300">
+                        <img src="./照片/一整073.jpg" width="450" height="300">
+                        <img src="./照片/一整074.jpg" width="450" height="300">
+                        <img src="./照片/一整076.jpg" width="450" height="300">
+                        <img src="./照片/一整077.jpg" width="450" height="300">
+                        <img src="./照片/一整078.jpg" width="450" height="300">
+                        <img src="./照片/一整079.jpg" width="450" height="300">
+                        <img src="./照片/一整080.jpg" width="450" height="300">
+                        <img src="./照片/一整081.jpg" width="450" height="300">
+                        <img src="./照片/一整082.jpg" width="450" height="300">
+                        <img src="./照片/一整084.jpg" width="450" height="300">
+                        <img src="./照片/一整086.jpg" width="450" height="300">
+                        <img src="./照片/一整087.jpg" width="450" height="300">
+                        <img src="./照片/一整088.jpg" width="450" height="300">
+                        <img src="./照片/一整089.jpg" width="450" height="300">
+                        <img src="./照片/一整090.jpg" width="450" height="300">
+                        <img src="./照片/一整091.jpg" width="450" height="300">
+                        <img src="./照片/一整092.jpg" width="450" height="300">
+                        <img src="./照片/一整093.jpg" width="450" height="300">
+                        <img src="./照片/一整094.jpg" width="450" height="300">
+                        <img src="./照片/一整095.jpg" width="450" height="300">
+                        <img src="./照片/一整096.jpg" width="450" height="300">
+                        <img src="./照片/一整097.jpg" width="450" height="300">
+                        <img src="./照片/一整098.jpg" width="450" height="300">
+                        <img src="./照片/一整099.jpg" width="450" height="300">
+                        <img src="./照片/一整100.jpg" width="450" height="300">
+                        <img src="./照片/一整101.jpg" width="450" height="300">
+                        <img src="./照片/一整102.jpg" width="450" height="300">
+                        <img src="./照片/一整103.jpg" width="450" height="300">
+                        <img src="./照片/一整104.jpg" width="450" height="300">
+                        <img src="./照片/一整105.jpg" width="450" height="300">
+                        <img src="./照片/一整106.jpg" width="450" height="300">
+                        <img src="./照片/一整107.jpg" width="450" height="300">
+                        <img src="./照片/一整108.jpg" width="450" height="300">
+                        <img src="./照片/一整109.jpg" width="450" height="300">
+                        <img src="./照片/一整110.jpg" width="450" height="300">
+                        <img src="./照片/一整111.jpg" width="450" height="300">
+                        <img src="./照片/一整112.jpg" width="450" height="300">
+                        <img src="./照片/一整113.jpg" width="450" height="300">
+                        <img src="./照片/一整114.jpg" width="450" height="300">
+                        <img src="./照片/一整116.jpg" width="450" height="300">
+                        <img src="./照片/一整117.jpg" width="450" height="300">
+                        <img src="./照片/一整120.jpg" width="450" height="300">
+                        <img src="./照片/一整122.jpg" width="450" height="300">
+                        <img src="./照片/一整125.jpg" width="450" height="300">
+                        <img src="./照片/一整126.jpg" width="450" height="300">
+                        <img src="./照片/一整131.jpg" width="450" height="300">
+                        <img src="./照片/一整133.jpg" width="450" height="300">
+                        <img src="./照片/一整134.jpg" width="450" height="300">
+                        <img src="./照片/一整135.jpg" width="450" height="300">
+                        <img src="./照片/一整136.jpg" width="450" height="300">
+                        <img src="./照片/一整137.jpg" width="450" height="300">
+                        <img src="./照片/一整138.jpg" width="450" height="300">
+                        <img src="./照片/一整139.jpg" width="450" height="300">
+                        <img src="./照片/一整141.jpg" width="450" height="300">
+                        <img src="./照片/一整142.jpg" width="450" height="300">
+                        <img src="./照片/一整143.jpg" width="450" height="300">
+                        <img src="./照片/一整144.jpg" width="450" height="300">
+                        <img src="./照片/一整145.jpg" width="450" height="300">
+                        <img src="./照片/一整146.jpg" width="450" height="300">
+                        <img src="./照片/一整147.jpg" width="450" height="300">
+                        <img src="./照片/一整148.jpg" width="450" height="300">
+                        <img src="./照片/一整149.jpg" width="450" height="300">
+                        <img src="./照片/一整150.jpg" width="450" height="300">
+                        <img src="./照片/一整151.jpg" width="450" height="300">
+                        <img src="./照片/一整153.jpg" width="450" height="300">
+                        <img src="./照片/一整155.jpg" width="450" height="300">
+                        <img src="./照片/一整156.jpg" width="450" height="300">
+                        <img src="./照片/一整157.jpg" width="450" height="300">
+                        <img src="./照片/一整163.jpg" width="450" height="300">
+                        <img src="./照片/一整164.jpg" width="450" height="300">
+                        <img src="./照片/一整165.jpg" width="450" height="300">
+                        <img src="./照片/一整168.jpg" width="450" height="300">
+                        <img src="./照片/一整169.jpg" width="450" height="300">
+                        <img src="./照片/一整170.jpg" width="450" height="300">
+                        <img src="./照片/一整171.jpg" width="450" height="300">
+                        <img src="./照片/一整174.jpg" width="450" height="300">
+                        <img src="./照片/一整175.jpg" width="450" height="300">
+                        <img src="./照片/一整176.jpg" width="450" height="300">
+                        <img src="./照片/一整177.jpg" width="450" height="300">
+                        <img src="./照片/一整178.jpg" width="450" height="300">
+                        <img src="./照片/一整179.jpg" width="450" height="300">
+                        <img src="./照片/一整180.jpg" width="450" height="300">
+                        <img src="./照片/一整181.jpg" width="450" height="300">
+                        <img src="./照片/一整182.jpg" width="450" height="300">
+                        <img src="./照片/一整183.jpg" width="450" height="300">
+                        <img src="./照片/一整184.jpg" width="450" height="300">
+                        <img src="./照片/一整185.jpg" width="450" height="300">
+
+
+                    </p>    
+                        
+                    <p>
+                        <!--這裡是直式照片-->
+                        <img src="./照片/一整005.jpg" width="300" height="450">
+                        <img src="./照片/一整061.jpg" width="300" height="450">
+                        <img src="./照片/一整062.jpg" width="300" height="450">
+                        <img src="./照片/一整069.jpg" width="300" height="450">
+                        <img src="./照片/一整070.jpg" width="300" height="450">
+                        <img src="./照片/一整075.jpg" width="300" height="450">
+                        <img src="./照片/一整083.jpg" width="300" height="450">
+                        <img src="./照片/一整085.jpg" width="300" height="450">
+                        <img src="./照片/一整088.jpg" width="300" height="450">
+                        <img src="./照片/一整115.jpg" width="300" height="450">
+                        <img src="./照片/一整118.jpg" width="300" height="450">
+                        <img src="./照片/一整119.jpg" width="300" height="450">
+                        <img src="./照片/一整121.jpg" width="300" height="450">
+                        <img src="./照片/一整123.jpg" width="300" height="450">
+                        <img src="./照片/一整124.jpg" width="300" height="450">
+                        <img src="./照片/一整127.jpg" width="300" height="450">
+                        <img src="./照片/一整128.jpg" width="300" height="450">
+                        <img src="./照片/一整129.jpg" width="300" height="450">
+                        <img src="./照片/一整130.jpg" width="300" height="450">
+                        <img src="./照片/一整132.jpg" width="300" height="450">
+                        <img src="./照片/一整152.jpg" width="300" height="450">
+                        <img src="./照片/一整154.jpg" width="300" height="450">
+                        <img src="./照片/一整158.jpg" width="300" height="450">
+                        <img src="./照片/一整159.jpg" width="300" height="450">
+                        <img src="./照片/一整160.jpg" width="300" height="450">
+                        <img src="./照片/一整161.jpg" width="300" height="450">
+                        <img src="./照片/一整162.jpg" width="300" height="450">
+                        <img src="./照片/一整166.jpg" width="300" height="450">
+                        <img src="./照片/一整167.jpg" width="300" height="450">
+
+                    </p>
+
+                </section>
+            </section>
+        </section>
+            
+
+        <section id="photo"></section>
+            <h2 class="h-sub">劇照</h2>
+
+        <section id=""></section>
+            <section>
+
+
+            </section>
+    </main>
+
+    <footer>
+        <p><small>Copyright © nchudrama All Rights Reserved.</small></p>
+    </footer>
+</body>
+</html>
